@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozguregesire
-- I'm Computer Science major in Bilkent University
+- I'm a Computer Science major at Bilkent University
 
 <!---
 ozguregesire/ozguregesire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
